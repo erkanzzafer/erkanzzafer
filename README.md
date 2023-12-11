@@ -1,6 +1,6 @@
 ### Hi, I'm Zafer.
 
-## Php - Laravel - Flutter Developer
+## Php - Laravel Developer
  
  
 Website: <a style="color:red" href="https://www.erkanzafer.com/" target="_blank">www.erkanzafer.com</a>
